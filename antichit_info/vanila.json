@@ -1,0 +1,32 @@
+{
+    "data": [
+        [
+            "mods\\mksrauth-neoforge_client1.21.1.jar",
+            "2fe0e6f83f52a0ef9272fabade84f8ead5ee0577d9b0b16a14b92d189f1b8bf4182197f38234f7b6db0960eaf03aca3ca0e3e2599fda12e040ec7eabb6edd505"
+        ],
+        [
+            "natives\\glfw.dll",
+            "b7f46feef779e5772fc7711fda601fdda6ee4bf41d4fb87735a0b8fdc5fdbbdab23ba1760989e15d66cf9ba65409933cbce858eda169d04f13f401198245ad1f"
+        ],
+        [
+            "natives\\jemalloc.dll",
+            "fc432ddb67dce8a672ac268d25f01d40c1d614e4ef34cbac6c4a2c01742ebab5d00c7ef5d9f0ef46ce0b3b6a4d5ace581fcf8c247d492c3882f561015d9e2ae4"
+        ],
+        [
+            "natives\\lwjgl.dll",
+            "ba8af0415c7b0454dd8bdccf78ed59da3bb5cc5f631dd060d3cd0eaf74d8f55d7531248b6b8a995ba5b672dc0386d3fa198e8c761f2e1cc0304da0dc029bf29e"
+        ],
+        [
+            "natives\\lwjgl_opengl.dll",
+            "b0f67e8d586fbf452856a7917a778d2a13ee7be7e90ff2e96ca123ce0a2cb05f792ab60529ae73778a188c90ca4b0642a8b76fa99899e552eac58d42bb98ed73"
+        ],
+        [
+            "natives\\lwjgl_stb.dll",
+            "65464c770aee957cbb50aaf998a7ce788e8e762dd02a5d72385d52cd2c25e15bc14b987f310a41408d3456fd3e0993fa9a3666d1859dfa007c0d35d04768f02c"
+        ],
+        [
+            "natives\\OpenAL.dll",
+            "a15f9cad82f2170ae87687070addd1eed0ff8f25ed47d0c6f43790c128b279a8f3b6eeeab4aef0af2aba4ee3c79a489a7d2596c94c61ec513a247d9489e80c80"
+        ]
+    ]
+}

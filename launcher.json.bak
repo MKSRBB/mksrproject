@@ -1,0 +1,10 @@
+{"data":{
+		"laucnher_vers": "2-admin_test",
+		"dowloand": {
+			"url":["https://github.com/MKSRBB/mksrproject/raw/MKSR/launcher/launcher_1.zip"]
+		},
+		"dont_delete":[
+			".minecraft", "config.json"
+		]
+	}
+}

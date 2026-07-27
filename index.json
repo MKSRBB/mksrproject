@@ -1,0 +1,129 @@
+{
+   "data":[
+      {
+         "ico_url":"https://github.com/MKSRBB/mksrproject/raw/MKSR/img/Lumenr.png",
+         "play_bool":true,
+         "name":{
+            "Українська":"Lumen",
+            "English":"Lumen"
+         },
+         "descript":{
+            "Українська":"<img style='width: 20vw; height: 10vw; position: absolute; bottom:0vw; left:0px;' src='https://github.com/MKSRBB/mksrproject/raw/MKSR/img/lumen_text.png'> \n <p style='font-size:2vw;'>🌿 Lumen / Сяйво — це світ, який створюють самі гравці. Хтось будує невеликий будинок біля озера, хтось засновує ціле місто, а хтось відкриває магазин чи збирає команду для великих проєктів. Тут немає правильного способу грати — просто заходь і залиш свій слід у цьому світі.</p>",
+            "English":"<img style='width: 20vw; height: 10vw; position: absolute; bottom:0vw; left:0px;' src='https://github.com/MKSRBB/mksrproject/raw/MKSR/img/lumen_text.png'> \n <p style='font-size:2vw;'>🌿 Lumen is a world shaped by its players. Some build a cozy house by the lake, others found entire cities, while some open shops or gather a team for ambitious projects. There’s no right or wrong way to play here—just join the world and leave your own mark.</p>" 
+         },
+         "ip_server":"lumen.mksr.pp.ua",
+         "info_dowloand":{
+            "id":"lumen",
+            "vers":"2",
+            "url":[
+               "https://github.com/MKSRBB/mksrproject/raw/MKSR/modpack/lumen_1.zip",
+               "https://github.com/MKSRBB/mksrproject/raw/MKSR/modpack/lumen_2.zip",
+               "https://github.com/MKSRBB/mksrproject/raw/MKSR/modpack/lumen_3.zip",
+               "https://github.com/MKSRBB/mksrproject/raw/MKSR/modpack/lumen_4.zip",
+               "https://github.com/MKSRBB/mksrproject/raw/MKSR/modpack/lumen_5.zip",
+               "https://github.com/MKSRBB/mksrproject/raw/MKSR/modpack/lumen_6.zip"
+            ],
+            "id_addition":"1.21.1",
+            "addition_vers_url":"https://github.com/MKSRBB/mksrproject/raw/MKSR/installer_forge/neoforge-21.1.235-installer.jar",
+            "type_addition_vers_url": "neoforge",
+            "addition_java_download_id": "java-runtime-delta"
+         },
+         "background":"https://mksr.pp.ua/img/lumen_launcher.webp",
+         "update":{
+            "dont_delete":["options.txt","saves"]
+         },
+         "setting_data":[
+		   ]
+      },
+      {
+         "ico_url":"https://github.com/MKSRBB/mksrproject/raw/MKSR/img/Galiciar.png",
+         "play_bool":false,
+         "name":{
+            "Українська":"Galicia",
+            "English":"Galicia"
+         },
+         "descript":{
+            "Українська":"<p style='font-size:2vw;'>❄️ Галіція - суворий світ вічної зими, де холод — твій головний ворог. Добувай ресурси, зігрівайся, розвивай технології та виживай на замерзлій планеті, де кожен день — це нове випробування.</p>",
+            "English":"<p style='font-size:2vw;'>❄️ Galicia is a harsh world of eternal winter, where the cold is your main enemy. Gather resources, stay warm, develop technology, and survive on a frozen planet where every day is a new challenge.</p>"
+         },
+         "ip_server":"vanila.mksr.pp.ua",
+         "info_dowloand":{
+            "id":"vanila",
+            "vers":"1",
+            "url":[
+            "https://github.com/MKSRBB/mksrproject/raw/MKSR/modpack/vanila_1.zip"
+            ],
+            "id_addition":"1.21.1",
+            "addition_vers_url":"https://maven.neoforged.net/releases/net/neoforged/neoforge/21.1.230/neoforge-21.1.230-installer.jar",
+            "type_addition_vers_url": "neoforge",
+            "addition_java_download_id": "java-runtime-delta"
+         },
+         "update":{
+            "dont_delete":["options.txt","saves"]
+         },
+         "background":"https://mksr.pp.ua/img/fon_dark_galacia.webp",
+         "setting_data":[
+            {
+               "Name_seting":"Voice_mod",
+               "url_download":"https://github.com/MKSRBB/mksrproject/raw/MKSR/addinal/vanila/Voice_mod/voicechat-neoforge-1.21.1-2.6.12.jar",
+               "vers":"",
+               "name":{
+                  "Українська":"Войс мод",
+                  "English":"Voice mod"
+               },
+               "when":"mods",
+               "defult":false,
+               "sha":"5a18c484809f088eb8238276d0a88fab3b559808a81ed4c51c457962d07a1dca3d4908b1212d1a3ed37ee493f09a967a6b13410f1d7aef4ea71694eb4a21f9d7"
+            },
+            {
+               "Name_seting":"Animation_mod",
+               "url_download":"",
+               "vers":"",
+               "name":{
+                  "Українська":"Аніматіон мод",
+                  "English":"Animation mod"
+               },
+               "when":"mods",
+               "defult":false,
+               "sha":""
+            }
+         ]
+      },
+      {
+         "ico_url":"https://github.com/MKSRBB/mksrproject/raw/MKSR/img/Nova.png",
+         "play_bool":false,
+         "name":{
+            "Українська":"Паразити",
+            "English":"Parasite"
+         },
+         "descript":{
+            "Українська":"🌌 Nova / Обрій — сервер, який ніколи не стоїть на місці. Кожен сезон приносить новий світ зі своєю атмосферою та унікальним досвідом. Тут ніколи не знаєш, що чекає попереду — нові пригоди, нові знайомства та нові історії, які створюють самі гравці.",
+            "English":"Interstellar adventures"
+         },
+         "ip_server":"vait.mksr.pp.ua",
+         "info_dowloand":{
+            "id":"vait",
+            "vers":"2",
+            "url":[
+               "https://github.com/MKSRBB/mksrproject/raw/MKSR/modpack/vait_1.zip",
+               "https://github.com/MKSRBB/mksrproject/raw/MKSR/modpack/vait_2.zip",
+               "https://github.com/MKSRBB/mksrproject/raw/MKSR/modpack/vait_3.zip",
+               "https://github.com/MKSRBB/mksrproject/raw/MKSR/modpack/vait_4.zip",
+               "https://github.com/MKSRBB/mksrproject/raw/MKSR/modpack/vait_5.zip",
+               "https://github.com/MKSRBB/mksrproject/raw/MKSR/modpack/vait_6.zip",
+               "https://github.com/MKSRBB/mksrproject/raw/MKSR/modpack/vait_7.zip",
+               "https://github.com/MKSRBB/mksrproject/raw/MKSR/modpack/vait_8.zip",
+               "https://github.com/MKSRBB/mksrproject/raw/MKSR/modpack/vait_9.zip"
+            ],
+            "id_addition":"1.12.2",
+            "addition_vers_id":"forge",
+            "addition_vers_idifi":"1.12.2-14.23.5.2860"
+         },
+         "update":{
+            "dont_delete":[""]
+         },
+         "background":"https://mksr.pp.ua/img/valt.webp",
+         "setting_data":[]
+      }
+   ]
+}
