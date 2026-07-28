@@ -24,6 +24,7 @@
                "https://github.com/MKSRBB/mksrproject/raw/MKSR/modpack/lumen_6.zip"
             ],
             "id_addition":"1.21.1",
+			"id_mod_addition":"neoforge-21.1.235",
             "addition_vers_url":"https://github.com/MKSRBB/mksrproject/raw/MKSR/installer_forge/neoforge-21.1.235-installer.jar",
             "type_addition_vers_url": "neoforge",
             "addition_java_download_id": "java-runtime-delta"
@@ -33,7 +34,7 @@
             "dont_delete":["options.txt","saves"]
          },
          "setting_data":[
-		]
+		   ]
       },
       {
          "ico_url":"https://github.com/MKSRBB/mksrproject/raw/MKSR/img/Galiciar.png",
@@ -74,8 +75,56 @@
                "when":"mods",
                "defult":false,
                "sha":"5a18c484809f088eb8238276d0a88fab3b559808a81ed4c51c457962d07a1dca3d4908b1212d1a3ed37ee493f09a967a6b13410f1d7aef4ea71694eb4a21f9d7"
+            },
+            {
+               "Name_seting":"Animation_mod",
+               "url_download":"",
+               "vers":"",
+               "name":{
+                  "Українська":"Аніматіон мод",
+                  "English":"Animation mod"
+               },
+               "when":"mods",
+               "defult":false,
+               "sha":""
             }
          ]
+      },
+      {
+         "ico_url":"https://github.com/MKSRBB/mksrproject/raw/MKSR/img/Nova.png",
+         "play_bool":false,
+         "name":{
+            "Українська":"Паразити",
+            "English":"Parasite"
+         },
+         "descript":{
+            "Українська":"🌌 Nova / Обрій — сервер, який ніколи не стоїть на місці. Кожен сезон приносить новий світ зі своєю атмосферою та унікальним досвідом. Тут ніколи не знаєш, що чекає попереду — нові пригоди, нові знайомства та нові історії, які створюють самі гравці.",
+            "English":"Interstellar adventures"
+         },
+         "ip_server":"vait.mksr.pp.ua",
+         "info_dowloand":{
+            "id":"vait",
+            "vers":"2",
+            "url":[
+               "https://github.com/MKSRBB/mksrproject/raw/MKSR/modpack/vait_1.zip",
+               "https://github.com/MKSRBB/mksrproject/raw/MKSR/modpack/vait_2.zip",
+               "https://github.com/MKSRBB/mksrproject/raw/MKSR/modpack/vait_3.zip",
+               "https://github.com/MKSRBB/mksrproject/raw/MKSR/modpack/vait_4.zip",
+               "https://github.com/MKSRBB/mksrproject/raw/MKSR/modpack/vait_5.zip",
+               "https://github.com/MKSRBB/mksrproject/raw/MKSR/modpack/vait_6.zip",
+               "https://github.com/MKSRBB/mksrproject/raw/MKSR/modpack/vait_7.zip",
+               "https://github.com/MKSRBB/mksrproject/raw/MKSR/modpack/vait_8.zip",
+               "https://github.com/MKSRBB/mksrproject/raw/MKSR/modpack/vait_9.zip"
+            ],
+            "id_addition":"1.12.2",
+            "addition_vers_id":"forge",
+            "addition_vers_idifi":"1.12.2-14.23.5.2860"
+         },
+         "update":{
+            "dont_delete":[""]
+         },
+         "background":"https://mksr.pp.ua/img/valt.webp",
+         "setting_data":[]
       }
    ]
 }
