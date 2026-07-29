@@ -55,7 +55,8 @@
             "https://github.com/MKSRBB/mksrproject/raw/MKSR/modpack/vanila_1.zip"
             ],
             "id_addition":"1.21.1",
-            "addition_vers_url":"https://maven.neoforged.net/releases/net/neoforged/neoforge/21.1.230/neoforge-21.1.230-installer.jar",
+            "addition_vers_url":"https://maven.neoforged.net/releases/net/neoforged/neoforge/21.1.235/neoforge-21.1.235-installer.jar",
+			"id_mod_addition":"neoforge-21.1.235",
             "type_addition_vers_url": "neoforge",
             "addition_java_download_id": "java-runtime-delta"
          },

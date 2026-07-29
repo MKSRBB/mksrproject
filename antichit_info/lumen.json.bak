@@ -5,6 +5,10 @@
             "94724dd77d005f0a189c4843efcc2800cf3d3e01d1f1ac184c6f6ad7c921aec508e93fa0bfac0e641a74c1629d4e5e4d06b8c1a3e0d8e63f97db89b2f879c106"
         ],
         [
+            "mods\\chatanimation-neoforge-1.3.1+mc1.21.jar",
+            "94724dd77d005f0a189c4843efcc2800cf3d3e01d1f1ac184c6f6ad7c921aec508e93fa0bfac0e641a74c1629d4e5e4d06b8c1a3e0d8e63f97db89b2f879c106"
+        ],
+        [
             "mods\\ambiance-neoforge-1.21-1.1.0.jar",
             "553c3770f90b4a465d92dfc24c55c0ad2c929e33d940dbaa81c491f8fb2504a6466da8ef18fe0020ab739cadf075b83a55d4973e7a75d2f746431318d3687004"
         ],
@@ -231,10 +235,6 @@
         [
             "mods\\sodium-neoforge-0.6.13+mc1.21.1.jar",
             "ce58f34d05d96c0a109a5cea23c741f6bdb2e6be31fc087c5989274cefca5f10ba0c08c62083cf554a51f2c7667bf46e4164383f675c844e77633aef2659996b"
-        ],
-        [
-            "mods\\StoryChar_v0.3.0Beta.jar",
-            "38a9a097bcbf53fe029f96d5caf87b491dce6017eb5d61ef1a3fb06531ef000b9702914c0a8126f384c0ccafc646ab219efabdc0f8819dad56d6ddfb39b6f0c8"
         ],
         [
             "mods\\tool-trims-packaged-v2.2.2b.jar",
