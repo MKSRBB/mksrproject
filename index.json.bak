@@ -66,7 +66,20 @@
             "vers":"1",
             "url":[
             "https://github.com/MKSRBB/mksrproject/raw/MKSR/modpack/vanila_1.zip"
-            ]
+            ],
+			"url_assets":[
+				"https://github.com/MKSRBB/mksrproject/raw/MKSR/assets/lumen/assets_1.zip",
+				"https://github.com/MKSRBB/mksrproject/raw/MKSR/assets/lumen/assets_2.zip",
+				"https://github.com/MKSRBB/mksrproject/raw/MKSR/assets/lumen/assets_3.zip",
+				"https://github.com/MKSRBB/mksrproject/raw/MKSR/assets/lumen/assets_4.zip",
+				"https://github.com/MKSRBB/mksrproject/raw/MKSR/assets/lumen/assets_5.zip",
+				"https://github.com/MKSRBB/mksrproject/raw/MKSR/assets/lumen/assets_6.zip",
+				"https://github.com/MKSRBB/mksrproject/raw/MKSR/assets/lumen/assets_7.zip",
+				"https://github.com/MKSRBB/mksrproject/raw/MKSR/assets/lumen/assets_8.zip",
+				"https://github.com/MKSRBB/mksrproject/raw/MKSR/assets/lumen/assets_9.zip",
+				"https://github.com/MKSRBB/mksrproject/raw/MKSR/assets/lumen/assets_10.zip",
+				"https://github.com/MKSRBB/mksrproject/raw/MKSR/assets/lumen/assets_11.zip",
+			],
             "id_addition":"1.21.1",
             "addition_vers_url":"https://maven.neoforged.net/releases/net/neoforged/neoforge/21.1.235/neoforge-21.1.235-installer.jar",
 			"id_mod_addition":"neoforge-21.1.235",
@@ -130,6 +143,19 @@
                "https://github.com/MKSRBB/mksrproject/raw/MKSR/modpack/vait_8.zip",
                "https://github.com/MKSRBB/mksrproject/raw/MKSR/modpack/vait_9.zip"
             ],
+			"url_assets":[
+				"https://github.com/MKSRBB/mksrproject/raw/MKSR/assets/lumen/assets_1.zip",
+				"https://github.com/MKSRBB/mksrproject/raw/MKSR/assets/lumen/assets_2.zip",
+				"https://github.com/MKSRBB/mksrproject/raw/MKSR/assets/lumen/assets_3.zip",
+				"https://github.com/MKSRBB/mksrproject/raw/MKSR/assets/lumen/assets_4.zip",
+				"https://github.com/MKSRBB/mksrproject/raw/MKSR/assets/lumen/assets_5.zip",
+				"https://github.com/MKSRBB/mksrproject/raw/MKSR/assets/lumen/assets_6.zip",
+				"https://github.com/MKSRBB/mksrproject/raw/MKSR/assets/lumen/assets_7.zip",
+				"https://github.com/MKSRBB/mksrproject/raw/MKSR/assets/lumen/assets_8.zip",
+				"https://github.com/MKSRBB/mksrproject/raw/MKSR/assets/lumen/assets_9.zip",
+				"https://github.com/MKSRBB/mksrproject/raw/MKSR/assets/lumen/assets_10.zip",
+				"https://github.com/MKSRBB/mksrproject/raw/MKSR/assets/lumen/assets_11.zip",
+			],
             "id_addition":"1.12.2",
             "addition_vers_id":"forge",
             "addition_vers_idifi":"1.12.2-14.23.5.2860"
