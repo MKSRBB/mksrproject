@@ -347,6 +347,10 @@
         [
             "mods\\.connector\\temp\\vcinteraction-fabric-1.21.1-1.0.8$polymer-reg-sync-manipulator-0.9.9+1.21.jar",
             "f407aa2cea54b1fbd845b0e938521305c9acd708f55a944fafd68c7c27149570abb4930371c99640952ec0f15ea9e7dd0be7f21a8b07ad1cd13c30c183d1ac38"
+        ],
+        [
+            "mods\\mowziesmobs-1.21.1-1.8.2.jar",
+            "ab10d2f759df613d5094bac26c5a8bbe144786699018f7e4ae027fc4a86632aa7f96206f2c8be9970338eadef42539614a19b41d0d70b6216c3ed1c4c4421f0a"
         ]
     ]
 }
