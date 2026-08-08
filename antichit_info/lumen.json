@@ -5,20 +5,12 @@
             "94724dd77d005f0a189c4843efcc2800cf3d3e01d1f1ac184c6f6ad7c921aec508e93fa0bfac0e641a74c1629d4e5e4d06b8c1a3e0d8e63f97db89b2f879c106"
         ],
         [
-            "mods\\chatanimation-neoforge-1.3.1+mc1.21.jar",
-            "8f9d9d9800bb028897333754b7eacb49d64fb41ccb85e308cc38de5c74bbd9572fe12ce2f5751e85432a5d219c88e057ae87d7b2301a6435fc84bbb1921e125a"
-        ],
-        [
             "mods\\ambiance-neoforge-1.21-1.1.0.jar",
             "553c3770f90b4a465d92dfc24c55c0ad2c929e33d940dbaa81c491f8fb2504a6466da8ef18fe0020ab739cadf075b83a55d4973e7a75d2f746431318d3687004"
         ],
         [
             "mods\\AmbientSounds_NEOFORGE_v6.3.8_mc1.21.1.jar",
             "292a7a61836eb6db31ec225ae4a0dc838416638618635ff60c07740bdc327df44ac0be7788c0ed44912935eb4d85b987fb6c594d11e4604f2d24fa21eabc672a"
-        ],
-        [
-            "mods\\animatedmojanglogo-2.1.jar",
-            "018a0922bc00e8810db9607320af663536dfb788047b23f79b9cb50bcc4a1881a6367920de7b49f9dd2e55b66fca4019e5973f0c27a5d13776ed6fad8822854e"
         ],
         [
             "mods\\architectury-13.0.8-neoforge.jar",
@@ -53,6 +45,10 @@
             "dd49b1269f8459d58d6157f5ed1b3cf77c9c42d67d726f7d18fd25b48339a56c192dd303892032f38c5cd8754be718cdb5b26d2f8d47284791ff14fa70ce7b7b"
         ],
         [
+            "mods\\chatanimation-neoforge-1.3.1+mc1.21.jar",
+            "8f9d9d9800bb028897333754b7eacb49d64fb41ccb85e308cc38de5c74bbd9572fe12ce2f5751e85432a5d219c88e057ae87d7b2301a6435fc84bbb1921e125a"
+        ],
+        [
             "mods\\cloth-config-15.0.140-neoforge.jar",
             "aaf9b010955b8cd294e5a92f069985b18729fd5e2cf22d351f1dff9680f15488688803ec41e77e941cbde130ceb535014ca4c868047d80ab69c2d508e216654d"
         ],
@@ -71,6 +67,10 @@
         [
             "mods\\CreativeCore_NEOFORGE_v2.13.41_mc1.21.1.jar",
             "2713dbd456f56f26ef934e5feb4bfb4578a66d0af056eb02670155affceb574d1237203e443e05908d88f3af8de47b52d0216d156028b77b5337f6283b7f4398"
+        ],
+        [
+            "mods\\crittersandcompanions-neoforge-1.21.1-2.6.2.jar",
+            "0eb106b9dba2fbb59a40a2829ac5a16fb19d9c4c35419583d08f00357448ba795853ed11e21674d25ca232c208eb9739c3da4b319c0af370fdf71fd5df42ef2f"
         ],
         [
             "mods\\curios-neoforge-9.5.1+1.21.1.jar",
@@ -101,6 +101,10 @@
             "da5a4236427df8010d75992201c8723ac84a8fa71efa55670551d333cac94a90ae8e8c536da63ae07a67f4d00dc2774ae4151030f41d26886e508f4a037c8694"
         ],
         [
+            "mods\\flowing_fluids-1.0.6-1.21-neoforge.jar",
+            "c903f5a9d67e860ef641869e54fe6d6a6ee0ae5285e754ac465160e63b15512453d374ead3d288fa9bb67c9050a6d6b8f2db7c1b7bc06e398a9a3969e9409c29"
+        ],
+        [
             "mods\\forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar",
             "858acb32a79e7ed1f37472bd7c50e3d2f47c7d7f6e734a8cece3800eb30d565a09580c261778ea73a0ae25e10e9eb9b16866012fe61d24f671b0ffe3ae2377dd"
         ],
@@ -123,6 +127,10 @@
         [
             "mods\\ImmersiveUI-NEOFORGE-0.3.3+1.21.1.jar",
             "bff82f778fc42a88a4b5d98759498ad85f086b23527e51f5c4c717a2fe9d1bcfa583f38ae12ff2d4403580c734cdfcef2daedbe19cb470bdea203f0595a687a7"
+        ],
+        [
+            "mods\\immersive_aircraft-1.4.6+1.21.1-neoforge.jar",
+            "65286619b753439755367d241bb48e77cf4ceaf2c5c19a0505223f1950ca539361b8e2242640378f116f1952e1461a6075b38f8ce4ee4b8425a6086effc7c0a0"
         ],
         [
             "mods\\iris-neoforge-1.8.12+mc1.21.1.jar",
@@ -193,6 +201,14 @@
             "afcac014cf7f24b36b0e41ec245e848892b091703523e0faa330bed4afade21e6dca3ce1dbb3829dd34f8a00cccb3e2d02672f1fa0c7602e2dbf0308ed0651de"
         ],
         [
+            "mods\\MoogsEndStructures-1.21-2.0.3.jar",
+            "eaf67a1854fe548f9537dbb0ec60a913d0126980db24840318ced7c3dd0740979b2821100d6acd37e85a73aca6a190d410b4d78d4503dc68e36b23a6dfcc7b17"
+        ],
+        [
+            "mods\\moogs_structures-neoforge-1.21.1-3.0.3.jar",
+            "dabecc356d94179927a4a569641af76698a7dca75bbe507ff724cff3e2cf8288efb365cdff97c3aee70d7b48962101a4eed5b9064159ce4ccc792c3b14874bee"
+        ],
+        [
             "mods\\nexuslib-neoforge-1.21.1-1.1.5.jar",
             "4d0fe1029367e1210083c5e70b9cfd761586a803a94be4d163b28898f5ba2937f2b55e796de431427460a0c9e9da5fe91c76c40bebeb048cb0d6199ea58fb3dd"
         ],
@@ -213,6 +229,10 @@
             "dde833018888d7654507ebdf78d8779c2f5642bf18dc3f82ed043f21d0dbeb30686bcb3061ce4d5edd99a5cd195d2248ee689348cde8d7b9c4b376d1a45632a1"
         ],
         [
+            "mods\\riverfishing-neoforge-0.7.1+1.21.1.jar",
+            "58b6899b47eec0d2354e10db6f08ae51b2dbedc326ae23440f7d7da7c80911f4bddfc684adb7e43ea7da8657ada7006a83cb4f26ada7e9a8eefe26ff2f27e81c"
+        ],
+        [
             "mods\\simplymore-forge-1.2.3.jar",
             "6c06d288c8c2eb183ccbf6298b68460f07dd94a5ef3b4850e5ed674b546a28cea85928e2913a4007ea43d52c3cc8faf936b8c7210fce594c77b5d7b0081f23eb"
         ],
@@ -223,6 +243,10 @@
         [
             "mods\\SimplyTooltips-neoforge-0.1.3.jar",
             "de69a684be47c7e25e6f8612f4aabe0fbf12816a40a8432eb9176b7f2d766e866dd96efbc0952e9dd683e97747ee15e1fe4d62cec1485c5c8dde9e58eef673ad"
+        ],
+        [
+            "mods\\smallships-neoforge-1.21.1-2.0.0-b2.1.jar",
+            "e5f9e7efd537330e41253696827d72de0662fd46b83a4a3b2983b2de105718125af53e237af5047c1660c45a872486278375a65a71ce39788632993907900120"
         ],
         [
             "mods\\smoothgui-neoforge-2.0.1+mc1.21.jar",
@@ -237,6 +261,10 @@
             "ce58f34d05d96c0a109a5cea23c741f6bdb2e6be31fc087c5989274cefca5f10ba0c08c62083cf554a51f2c7667bf46e4164383f675c844e77633aef2659996b"
         ],
         [
+            "mods\\spawnanimations-v1.11.5-mc1.17-26.2.9-mod.jar",
+            "ad897e3b2e1080dc63306f98dcc449b0530fd3b0214c0793b7994be248146a1c6b5ca271006f22120c2c8e8729e4da60710caac28060bfcd528962ec1b89566b"
+        ],
+        [
             "mods\\tool-trims-packaged-v2.2.2b.jar",
             "bf79b6abbd1a8d23a1feff0291e13ee2e0ae825b034a5cbbdd09c55a6991fe196c8718438528fb124b4a995433d367d3a111557670a81bc17be5cfd8c21e7028"
         ],
@@ -247,6 +275,10 @@
         [
             "mods\\yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
             "583de19b927ce8050c2b7d5e60b75accc69e325e5aac85c27994c82a9dec2e4e078343fa1d4c3a10d4bd7e0e524e0b3b246a18cf03db01e363a1e6f865adcf48"
+        ],
+        [
+            "mods\\yyzsbackpack-neoforge-21.1.13.jar",
+            "2baff41e443c2d1ee40f82423befb19786a65d06257d2a402a21a444d97260162d883f01d3c9d545095cf0fef022a1e02502712de70553004ab7acb3971c8581"
         ],
         [
             "mods\\[1.21.1-Neoforge] Hybrid Aquatic 1.6.6.jar",
