@@ -45,19 +45,7 @@
          "update":{
             "dont_delete":["options.txt","saves"]
          },
-         "setting_data":[
-			 {
-				   "Name_seting":"Litematica",
-				   "url_download":"https://github.com/MKSRBB/mksrproject/raw/MKSR/addinal/lumen/litematica-fabric-1.21-0.19.61.jar",
-				   "vers":"1",
-				   "name":{
-					  "Українська":"Litematica",
-					  "English":"Litematica"
-				   },
-				   "when":"mods",
-				   "defult":false,
-				   "sha":"626d0b9785afa5cd9915a25089213332b0ae6805e992a15c12292fa174146a354c7fa891e5f834e2eb10c281dbd4b4d69081649b2a83b48f22a66bc99220b328"
-			}  
+         "setting_data":[ 
 		 ]
       },
       {
