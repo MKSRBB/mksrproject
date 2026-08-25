@@ -45,7 +45,19 @@
          "update":{
             "dont_delete":["options.txt","saves"]
          },
-         "setting_data":[ 
+         "setting_data":[
+			 {
+				   "Name_seting":"Forgematica",
+				   "url_download":"https://github.com/MKSRBB/mksrproject/raw/MKSR/addinal/lumen/forgematica-0.4.1+mc1.21.1.jar",
+				   "vers":"1",
+				   "name":{
+					  "Українська":"Forgematica",
+					  "English":"Forgematica"
+				   },
+				   "when":"mods",
+				   "defult":false,
+				   "sha":"8f654bfa23f6515e2538c85105e1c6409805b0c01c4a078b4c86d4257784d44f83b1bcf57c1280dce742911692d10467b9d5f81ad03cdcf78c8d3e5091f3101c"
+			}  
 		 ]
       },
       {

@@ -47,16 +47,16 @@
          },
          "setting_data":[
 			 {
-				   "Name_seting":"Litematica",
-				   "url_download":"https://github.com/MKSRBB/mksrproject/raw/MKSR/addinal/lumen/litematica-fabric-1.21-0.19.61.jar",
+				   "Name_seting":"Forgematica",
+				   "url_download":"https://github.com/MKSRBB/mksrproject/raw/MKSR/addinal/lumen/forgematica-0.4.1+mc1.21.1.jar",
 				   "vers":"1",
 				   "name":{
-					  "Українська":"Litematica",
-					  "English":"Litematica"
+					  "Українська":"Forgematica",
+					  "English":"Forgematica"
 				   },
 				   "when":"mods",
 				   "defult":false,
-				   "sha":"626d0b9785afa5cd9915a25089213332b0ae6805e992a15c12292fa174146a354c7fa891e5f834e2eb10c281dbd4b4d69081649b2a83b48f22a66bc99220b328"
+				   "sha":"121e61880a874d1993f8675d756a57e5a231ff77a9576a0b6e8cdfdf89deb818344aa87626c97894b4a7029b020310cb79bed74113365e28b8477b02c1642080"
 			}  
 		 ]
       },
