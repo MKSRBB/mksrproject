@@ -13,8 +13,16 @@
             "292a7a61836eb6db31ec225ae4a0dc838416638618635ff60c07740bdc327df44ac0be7788c0ed44912935eb4d85b987fb6c594d11e4604f2d24fa21eabc672a"
         ],
         [
+            "mods\\aquamirae-neoforge-1.21.1-7.2.4.jar",
+            "c24080b0f5f3f53f56cceab7617ff03b480ca931827a786d8e7c5c76a8360fd310436a1cdcd8b66c238caf09a316925bf6facc6fd32f2a3507b9ba377d2993f9"
+        ],
+        [
             "mods\\architectury-13.0.8-neoforge.jar",
             "65e3664953385d880320dd6bb818bcb96d361c07c53e2a7f65e64c6a47720ee26b233224ae9cad465ef0b2bbaefdaf30fb0175a983cecd91de058817d6fcf57e"
+        ],
+        [
+            "mods\\balm-neoforge-1.21.1-21.0.65.jar",
+            "779b4f9e9738ae6f010e87f71b2ed5a114eb9b1b3d5b55cf42ad538094e5b064a1d3f4ff00064aac90da1c841a144464d47378d9bffc448a71d87132cb954101"
         ],
         [
             "mods\\betterbiomeblend-1.5.2.jar",
@@ -65,6 +73,10 @@
             "320b6def6073ce0ffc0ce2bd7cdb66324467ea3e7cec05508f32d78f65c60ff3e155394b94c60f62e059404ec0ca3fc6112987a5764a8f85241d3026a2ee4935"
         ],
         [
+            "mods\\corpse-neoforge-1.21.1-1.1.13.jar",
+            "473aafd82008c1e041e3b4a5a177507d555c8bc9dd1f121f252f1e81bc0c69c79a91cb64be0df343babcb3d4db76efbaa7aa2adaeaae29337808a368bc290ad0"
+        ],
+        [
             "mods\\CreativeCore_NEOFORGE_v2.13.41_mc1.21.1.jar",
             "2713dbd456f56f26ef934e5feb4bfb4578a66d0af056eb02670155affceb574d1237203e443e05908d88f3af8de47b52d0216d156028b77b5337f6283b7f4398"
         ],
@@ -113,12 +125,20 @@
             "6c631bc46a3f785fd43356710510a241f6b851ea7e8c59e0dbb9af8c3919a24e3e1eb2ca3075b82979ced5cad2625c92a78ac9eabbd9ff8d8161fc20ac7c7107"
         ],
         [
+            "mods\\fragmentum-neoforge-1.21.1-2.4.4.jar",
+            "d86d4e2386f853e768659f0beb8debee6d9b0b17d081ec8ab8dcb171edbfa819bcdb49f5572734e680a73ab641de053d7bc103c742b0e487854506052b704cac"
+        ],
+        [
             "mods\\fzzy_config-0.7.6+1.21+neoforge.jar",
             "6071890aba7f2273c9fd508914acc7850de9d986423760f9ce416875ffa04eea2ad71a7a6f4d5f90f0625a672f6f54606778d11151b155f3fd98c223c61a4a6d"
         ],
         [
             "mods\\geckolib-neoforge-1.21.1-4.9.2.jar",
             "c91012b16cc40c8f48f69b78cb8e2e5c006486ae2431fbd289dfc01be7a4217294becea22d83a155d6b32b3969450df871352a3695e1452168b84f41355f7b9e"
+        ],
+        [
+            "mods\\hardcorerevival-neoforge-1.21.1-21.1.20.jar",
+            "2914df26d82e6501422b4cbb45063c3fbd5b5dafefcaf558bbf6afabcbf7e395e5aa4435aa47d1a32c46e7e8d58ed2a4bc5dbf76ef17ecc3eb0e169593672ad9"
         ],
         [
             "mods\\Iceberg-1.21.1-neoforge-1.3.2.jar",
@@ -209,6 +229,10 @@
             "dabecc356d94179927a4a569641af76698a7dca75bbe507ff724cff3e2cf8288efb365cdff97c3aee70d7b48962101a4eed5b9064159ce4ccc792c3b14874bee"
         ],
         [
+            "mods\\mowziesmobs-1.21.1-1.8.2.jar",
+            "ab10d2f759df613d5094bac26c5a8bbe144786699018f7e4ae027fc4a86632aa7f96206f2c8be9970338eadef42539614a19b41d0d70b6216c3ed1c4c4421f0a"
+        ],
+        [
             "mods\\nexuslib-neoforge-1.21.1-1.1.5.jar",
             "4d0fe1029367e1210083c5e70b9cfd761586a803a94be4d163b28898f5ba2937f2b55e796de431427460a0c9e9da5fe91c76c40bebeb048cb0d6199ea58fb3dd"
         ],
@@ -229,8 +253,8 @@
             "dde833018888d7654507ebdf78d8779c2f5642bf18dc3f82ed043f21d0dbeb30686bcb3061ce4d5edd99a5cd195d2248ee689348cde8d7b9c4b376d1a45632a1"
         ],
         [
-            "mods\\riverfishing-neoforge-0.7.1+1.21.1.jar",
-            "58b6899b47eec0d2354e10db6f08ae51b2dbedc326ae23440f7d7da7c80911f4bddfc684adb7e43ea7da8657ada7006a83cb4f26ada7e9a8eefe26ff2f27e81c"
+            "mods\\riverfishing-neoforge-0.8.2+1.21.1.jar",
+            "1d223a4e25d258acdbb88246dad54af7a7ed7c4efd5dca3a0b73b1c6745e9d5aa0d6066a54f0305e0b9f5fa8b6f01e1a301b699f970e86485be895497236ab46"
         ],
         [
             "mods\\simplymore-forge-1.2.3.jar",
@@ -347,10 +371,6 @@
         [
             "mods\\.connector\\temp\\vcinteraction-fabric-1.21.1-1.0.8$polymer-reg-sync-manipulator-0.9.9+1.21.jar",
             "f407aa2cea54b1fbd845b0e938521305c9acd708f55a944fafd68c7c27149570abb4930371c99640952ec0f15ea9e7dd0be7f21a8b07ad1cd13c30c183d1ac38"
-        ],
-        [
-            "mods\\mowziesmobs-1.21.1-1.8.2.jar",
-            "ab10d2f759df613d5094bac26c5a8bbe144786699018f7e4ae027fc4a86632aa7f96206f2c8be9970338eadef42539614a19b41d0d70b6216c3ed1c4c4421f0a"
         ]
     ]
 }
