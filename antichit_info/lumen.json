@@ -367,6 +367,18 @@
         [
             "mods\\.connector\\temp\\vcinteraction-fabric-1.21.1-1.0.8$polymer-reg-sync-manipulator-0.9.9+1.21.jar",
             "f407aa2cea54b1fbd845b0e938521305c9acd708f55a944fafd68c7c27149570abb4930371c99640952ec0f15ea9e7dd0be7f21a8b07ad1cd13c30c183d1ac38"
-        ]
+        ],
+		[
+			"mods\\questline-1.0.9.jar",
+			"2c76388c9297810da69832fdb1d1d9c1a6421053dc6a87a1d63a447af82d2439c399bc6ed58b087fae115cd56a7b8b23e44b7e064fa4a9e7c9d7971cca495814"
+		],
+		[
+			"mods\\fix-mc-stats-neoforge-1.21-2.2.3.jar",
+			"d34eee9cdc082b099e6966ecb0bdf3d74303df1307abd457e87a4edf9dd98418940da94d79a381098acaa32dc2fcf5f8e264e6389ce95e8c170ea31e59ae9fd3"
+		],
+		[
+			"mods\\packetfixer-3.3.1-1.20.5-1.21.X-merged.jar",
+			"d0acfaa6ef394fc7d9e677022bda06a6c8be7851ba8860897999775b657b5e10878578fe626505b0c9dbc01d26f559dbb1214aabb081d076824648047094e2e1"
+		]
     ]
 }
