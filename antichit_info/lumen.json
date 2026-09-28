@@ -383,6 +383,14 @@
 		[
 			"mods\\vendingblock-1.21.1-1.1.4.jar",
 			"cd92be15659a183b711cf6bacd79cba816e93abe17bdf6d03d57218b262ee700f85bc1c4ace4e05242dc77d53b1e2a084a85adad8e7b134e845b9cf63818baf1"
+		],
+		[
+			"mods\\ftb-quests-neoforge-2101.1.36.jar",
+			"35298874f77fc15d1b66478092ec447db73ddaf699431e1529e41a5b4c421abf9cddc0d491385e45862eec816ade0bfbb92f267a035bfe2587b2b82683b61ad1"
+		],
+		[
+			"mods\\ftb-xmod-compat-neoforge-21.1.12.jar",
+			"1fd5269769bb7c036a2366c17de45add12e5349856161f40c6a517faf3ed978ed8536f8c613c1b74b6c2cd4c6ba71b400fdbcdf915a9f9b8a9bbd0030bfd2409"
 		]
     ]
 }

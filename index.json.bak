@@ -14,13 +14,15 @@
          "ip_server":"lumen.mksr.pp.ua",
          "info_dowloand":{
             "id":"lumen",
-            "vers":"5",
+            "vers":"13",
             "url":[
-               "https://github.com/MKSRBB/mksrproject/raw/MKSR/modpack/lumen_2.zip",
-               "https://github.com/MKSRBB/mksrproject/raw/MKSR/modpack/lumen_3.zip",
+               "https://github.com/MKSRBB/mksrproject/raw/MKSR/modpack/lumen_6.zip",
                "https://github.com/MKSRBB/mksrproject/raw/MKSR/modpack/lumen_4.zip",
+               "https://github.com/MKSRBB/mksrproject/raw/MKSR/modpack/lumen_3.zip",
+               "https://github.com/MKSRBB/mksrproject/raw/MKSR/modpack/lumen_2.zip",
                "https://github.com/MKSRBB/mksrproject/raw/MKSR/modpack/lumen_5.zip",
-               "https://github.com/MKSRBB/mksrproject/raw/MKSR/modpack/lumen_1.zip"
+               "https://github.com/MKSRBB/mksrproject/raw/MKSR/modpack/lumen_1.zip",
+               "https://github.com/MKSRBB/mksrproject/raw/MKSR/modpack/lumen_7.zip"
             ],
 			"url_assets":[
 				"https://github.com/MKSRBB/mksrproject/raw/MKSR/assets/lumen/assets_1.zip",
@@ -56,7 +58,7 @@
 				   },
 				   "when":"mods",
 				   "defult":false,
-				   "sha":"121e61880a874d1993f8675d756a57e5a231ff77a9576a0b6e8cdfdf89deb818344aa87626c97894b4a7029b020310cb79bed74113365e28b8477b02c1642080"
+				   "sha":"8f654bfa23f6515e2538c85105e1c6409805b0c01c4a078b4c86d4257784d44f83b1bcf57c1280dce742911692d10467b9d5f81ad03cdcf78c8d3e5091f3101c"
 			}  
 		 ]
       },
