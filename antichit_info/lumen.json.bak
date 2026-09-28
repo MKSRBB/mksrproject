@@ -375,6 +375,14 @@
 		[
 			"mods\\fix-mc-stats-neoforge-1.21-2.2.3.jar",
 			"d34eee9cdc082b099e6966ecb0bdf3d74303df1307abd457e87a4edf9dd98418940da94d79a381098acaa32dc2fcf5f8e264e6389ce95e8c170ea31e59ae9fd3"
+		],
+		[
+			"mods\\packetfixer-3.3.1-1.20.5-1.21.X-merged.jar",
+			"d0acfaa6ef394fc7d9e677022bda06a6c8be7851ba8860897999775b657b5e10878578fe626505b0c9dbc01d26f559dbb1214aabb081d076824648047094e2e1"
+		],
+		[
+			"mods\\",
+			"cd92be15659a183b711cf6bacd79cba816e93abe17bdf6d03d57218b262ee700f85bc1c4ace4e05242dc77d53b1e2a084a85adad8e7b134e845b9cf63818baf1"
 		]
     ]
 }
