@@ -161,8 +161,8 @@
             "9e581a5967dbbf6eda7863691fae83d0b34a56dab5ff2ae224bc8dbe590adee79da8a1c5df159bbd132a063c1a00577b0a630537646d22f96e06a79307b02fa4"
         ],
         [
-            "mods\\jei-1.21.1-neoforge-19.38.0.366.jar",
-            "21f20b4086647773a982140640d8da817e2b3f7958c9bba7a3b011534f5b92d1a347a7ea041fc70cdf195b759a298904bf3c02b3fc29f17d330ab14aa2c376d1"
+            "mods\\jei-1.21.1-neoforge-19.57.0.450.jar",
+            "7d1e6c484d4cb78dd1d784fc7fd6fac18a1e8daff0537c3c4ca18987506cd4bc500dc5c8dbb89e00997798cf0e662d9f5872ff785f847cdc3c108c88dff3171c"
         ],
         [
             "mods\\kotlinforforge-5.12.0-all (1).jar",
@@ -391,6 +391,14 @@
 		[
 			"mods\\ftb-xmod-compat-neoforge-21.1.12.jar",
 			"1fd5269769bb7c036a2366c17de45add12e5349856161f40c6a517faf3ed978ed8536f8c613c1b74b6c2cd4c6ba71b400fdbcdf915a9f9b8a9bbd0030bfd2409"
-		]
+		],
+        [
+            "mods\\ftb-teams-neoforge-2101.1.11.jar",
+            "21c9350c6c7ec54ee54b74f2bdc0a44f91005bedda3caf27d673b2f2bcad1dbef5aec970201ec8e959db2a1743ceb2e24ae99a9e36744dce740a0ab1dad01c52"
+        ],
+        [
+            "mods\\ftb-library-neoforge-2101.1.37.jar",
+            "36f7e2fd41de638b044ad2b391f69f276ab28df3d86cf9d83638a2e0432ef151e1737ce60d671901d0a3b49424c9ba1a09c0293fc0c6637871020b46feae9159"
+        ]
     ]
 }
